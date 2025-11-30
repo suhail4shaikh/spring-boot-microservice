@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: info
+
+welcome:
+  message: "this is prod"

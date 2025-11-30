@@ -1,0 +1,6 @@
+logging:
+  level:
+    root: debug
+
+welcome:
+  message: "this is dev"
